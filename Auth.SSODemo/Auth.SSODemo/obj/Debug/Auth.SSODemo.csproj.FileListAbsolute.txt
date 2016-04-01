@@ -66,3 +66,4 @@ C:\Projects\SSO Sample\Auth.SSODemo\Auth.SSODemo\bin\Microsoft.Owin.Security.OAu
 C:\Projects\SSO Sample\Auth.SSODemo\Auth.SSODemo\bin\System.IdentityModel.Tokens.Jwt.pdb
 C:\Projects\SSO Sample\Auth.SSODemo\Auth.SSODemo\bin\System.IdentityModel.Tokens.Jwt.xml
 C:\Projects\SSO Sample\Auth.SSODemo\Auth.SSODemo\bin\System.Web.Http.Owin.xml
+C:\Projects\SSO Sample\Auth.SSODemo\Auth.SSODemo\bin\Config\idsrv3test.pfx

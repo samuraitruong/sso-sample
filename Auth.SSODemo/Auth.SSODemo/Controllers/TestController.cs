@@ -9,6 +9,7 @@ namespace Auth.SSODemo.Controllers
 {
     public class TestController : ApiController
     {
+        [Authorize]
         public string Get()
         {
             return "Hello";
